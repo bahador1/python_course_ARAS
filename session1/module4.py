@@ -2,5 +2,7 @@
 #directory  == package
 from dir1 import submodule1
 import dir1.submodule2
-# print(submodule1.__file__)
-# print(dir1.__file__)
+#the output would be 
+# hello world from dir1 package
+# herer is submodule1
+# herer is submodule2
