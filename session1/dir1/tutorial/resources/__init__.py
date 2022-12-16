@@ -1,1 +1,0 @@
-from resources.object_one import One
